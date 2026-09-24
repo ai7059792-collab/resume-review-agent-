@@ -1,6 +1,0 @@
-# Python 3.11 recommended for Streamlit Community Cloud
-streamlit==1.64.0
-crewai[litellm]==1.15.22
-litellm==1.101.2
-pypdf==6.19.0
-openai>=2.30.0,<3
